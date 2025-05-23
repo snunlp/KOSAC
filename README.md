@@ -104,7 +104,6 @@ tag belongs to.
 
 ### Corpus Files
 The two files are different for the subjectivity values of direct quote sentences.
-
 `kosac-corpus-130808.csv` is the modified version for a sentence subjectivity recognition task.
 
 <br>
