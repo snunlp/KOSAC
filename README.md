@@ -22,6 +22,7 @@ You can find details in our [Annotation Scheme (PACLIC26)](http://ling.snu.ac.kr
 |Writing-Device	|5	|98	|9	|306	|764	|172	|2957	|4311|
 |Total	|425	|1854	|1163	|1027	|9714	|405	|3027	|17615|
 
+<br>
 
 ## ReadMe
 
@@ -116,6 +117,8 @@ The six CSV files included in lexicon.zip each correspond to one semantic featur
 - max.value: Name of the value with the highest proportion
 - max.prop: Numerical value of the highest proportion
 
+
+<br>
 
 ## Citation
 If you use these dataset, please cite the following paper(s):
