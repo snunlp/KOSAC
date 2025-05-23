@@ -115,3 +115,29 @@ The six CSV files included in lexicon.zip each correspond to one semantic featur
 - (semantic feature value): Proportion of Seeds containing the N-gram that have this value
 - max.value: Name of the value with the highest proportion
 - max.prop: Numerical value of the highest proportion
+
+
+## Citation
+If you use these dataset, please cite the following paper(s):
+```
+@article{kosaccorpus,
+    title={KOSAC(Korean Sentiment Analysis Corpus): 한국어 감정 및 의견 분석 코퍼스},
+    author={김문형, 장하연, 조유미, 신효필},
+    year={2013},
+    journal={Information and Compuation},
+  }
+
+@article{kosactool,
+    title={Morpheme-based Annotation Tool for Korean Text},
+    author={Andrew Cattle, Munhyong Kim, and Hyopil Shin},
+    year={2013},
+    journal={Proceedings of the American Association for Corpus Linguistics},
+  }
+
+@article{kosacguideline,
+    title={Annotation Scheme for Constructing Sentiment Corpus in Korean},
+    author={Hyopil Shin, Munhyong Kim, Yu-Mi Jo, Hayeon Jang, and Andrew Cattle},
+    year={2012},
+    journal={Proceedings of the 26th Pacific Asia Conference on Language},
+  }
+```
