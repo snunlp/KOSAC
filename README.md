@@ -102,6 +102,11 @@ The raw-sentence column contains the original sentence that the tag belongs to.
 The raw-sentence column contains the original sentence with morphemes that the 
 tag belongs to.
 
+### Corpus Files
+The two files are different for the subjectivity values of direct quote sentences.
+
+`kosac-corpus-130808.csv` is the modified version for a sentence subjectivity recognition task.
+
 <br>
 
 ### About Lexicon
